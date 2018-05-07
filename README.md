@@ -1,4 +1,4 @@
-# Compilation-of-CS-Learning-Resource
+# Compilation-of-CS-Learning-Resources
 
 Python  
 http://openbookproject.net/thinkcs/python/english3e/
