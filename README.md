@@ -1,13 +1,13 @@
 # Compilation-of-CS-Learning-Resource
 
-Python
+Python  
 http://openbookproject.net/thinkcs/python/english3e/
 
-C
+C  
 http://publications.gbdirect.co.uk/c_book/
 
-Ruby
+Ruby  
 https://learnrubythehardway.org/book/
 
-Ruby on Rails
+Ruby on Rails  
 https://www.railstutorial.org/book
